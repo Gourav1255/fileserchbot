@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/LazyDeveloperr/LazyPrincessV2 /LazyPrincessV2
+  git clone https://github.com/Gourav1255/fileserchbot /fileserchbot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /LazyPrincessV2
+  git clone $UPSTREAM_REPO /fileserchbot
 fi
 cd /LazyPrincessV2
 pip3 install -U -r requirements.txt
