@@ -12,9 +12,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'GoruHDmovies')
-API_ID = int(environ.get('API_ID', '15072632'))
-API_HASH = environ.get('API_HASH', 'ca639f129f27f59f7a1045b59e3d7468')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5857390556:AAG4siv6Q7KhXHjFuzFiox0qGxfy8ava9vk")
+API_ID = int(environ.get('API_ID', '19751208'))
+API_HASH = environ.get('API_HASH', '7ee46e0888432fad23173820d4caddf2')
+BOT_TOKEN = environ.get('BOT_TOKEN', "5722573121:AAEN9PUBAxZzuFDJ8iiyDZtwsnSCuUCY7hU")
 
 #Port
 PORT = environ.get("PORT", "8080")
