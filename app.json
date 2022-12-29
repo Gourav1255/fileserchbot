@@ -1,5 +1,5 @@
 {
-    "name": "LazyPrincessV2",
+    "name": "fileserchbot",
     "description": "LazyPrincess with Url Shortner",
     "stack": "container",
     "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://github.com/Gourav1255",
+    "repository": "https://github.com/Gourav1255/fileserchbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
