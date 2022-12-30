@@ -25,7 +25,7 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how su
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ LazyPrincess ]"""
     SOURCE_TXT = """<b>LazyPrincess is an open source project</b>
 
-You can easily get its source code from github - <a href='https://github.com/LazyDeveloperr/LazyPrincessV2'>LazyDeveloperr</a>"""
+You can easily get its source code from github - <a href='https://github.com/Gourav1255/fileserchbot'>Gourav1255</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
@@ -50,7 +50,7 @@ You can easily get its source code from github - <a href='https://github.com/Laz
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/mxplayerfreemovies)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
